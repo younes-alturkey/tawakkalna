@@ -38,7 +38,7 @@ From your command line:
 #### # Clone this repository
 
 ```bash
-git clone https://github.com/Tawakkalna/react-native.git
+git clone https://github.com/younes-alturkey/tawakkalna.git
 ```
 
 #### # Go into the frontend directory
