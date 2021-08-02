@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href=""><img src="https://github.com/Tawakkalna/react-native/blob/main/TawakklnaA/assets/demo-latest.gif" height="600" alt="demo"/></a>
+  <a href=""><img src="https://github.com/younes-alturkey/tawakkalna/blob/main/TawakklnaA/assets/demo-latest.gif" height="600" alt="demo"/></a>
 </p>
 
 <div id="key-features">
@@ -80,11 +80,11 @@ npm start
 
 ## License
 
-[Open Source License ➝ MIT](https://github.com/Tawakkalna/react-native/blob/main/LICENSE.md)
+[Open Source License ➝ MIT](https://github.com/younes-alturkey/tawakkalna/blob/main/LICENSE.md)
 
 </div>
 
-## Developers
+## Developers at Tuwaiq .NET Bootcamp
 
 
 > Fatimah Alqhtany ➝ [@FatmahAlqhtany](https://github.com/FatmahAlqhtany)
