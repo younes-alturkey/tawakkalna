@@ -50,7 +50,7 @@ cd react-native/TawakklnaA
 #### # Install the dependencies
 
 ```bash
-yarn install
+npm install
 ```
 
 #### # Run the app
