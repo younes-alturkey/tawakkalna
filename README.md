@@ -87,7 +87,7 @@ npm start
 ## Developers at Tuwaiq .NET Bootcamp
 
 
-> Younes Alturkey ➝ [@younes-alturkey](https://github.com/younes-alturkey) ➝ Product Manager
+> Younes Alturkey (Product Manager) ➝ [@younes-alturkey](https://github.com/younes-alturkey)
 
 > Fatimah Alqhtany ➝ [@FatmahAlqhtany](https://github.com/FatmahAlqhtany)
 
